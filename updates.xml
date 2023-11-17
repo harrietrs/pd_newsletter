@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Data Science PD newsletter</title>
-<link>https://nhs-r-community.github.io/quarto-nhs-theme/updates.html</link>
-<atom:link href="https://nhs-r-community.github.io/quarto-nhs-theme/updates.xml" rel="self" type="application/rss+xml"/>
+<link>https://harrietrs.github.io/pd_newsletter/updates.html</link>
+<atom:link href="https://harrietrs.github.io/pd_newsletter/updates.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter promoting professional development for data scientists at NHS England.</description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Sun, 11 Dec 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Craig R Shenton</dc:creator>
-  <link>https://nhs-r-community.github.io/quarto-nhs-theme/posts/welcome/index.html</link>
+  <link>https://harrietrs.github.io/pd_newsletter/posts/welcome/index.html</link>
   <description><![CDATA[ 
 
 
@@ -29,9 +29,9 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://nhs-r-community.github.io/quarto-nhs-theme/posts/welcome/index.html</guid>
+  <guid>https://harrietrs.github.io/pd_newsletter/posts/welcome/index.html</guid>
   <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nhs-r-community.github.io/quarto-nhs-theme/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://harrietrs.github.io/pd_newsletter/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
