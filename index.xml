@@ -28,7 +28,7 @@
 <section id="subscribe" class="level1">
 <h1>Subscribe</h1>
 <div class="hero-buttons">
-<p><a href="mailto:datascience@nhs.net?subject=%22Subscribe%20to%20PD%20newsletter%22" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
+<p><a href="mailto:datascience@nhs.net?subject=subscribe" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
 </div>
 
 
