@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "newsletters.html",
-    "href": "newsletters.html",
-    "title": "Data Science PD newsletter",
+    "objectID": "newsletter.html",
+    "href": "newsletter.html",
+    "title": "Data Science PD newsletter v0.2.0",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Science PD newsletter v0.2.0\n\nUnder construction\n\nBroken button\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2023_11/newsletter.html",
@@ -12,13 +12,6 @@
     "title": "This is a dummy newsletter",
     "section": "",
     "text": "Heading 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nSubscribe\n\nSubscribe"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science PD newsletter v0.2.0",
-    "section": "",
-    "text": "Data Science PD newsletter v0.2.0\n\nUnder construction\n\nBroken button"
   },
   {
     "objectID": "about.html",
