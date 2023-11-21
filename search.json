@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Data Science PD newsletter v0.2.0",
     "section": "",
-    "text": "Data Science PD newsletter v0.2.0\n\nUnder construction\n\nBroken button\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": ":::: {.hero-banner}\n\n\n\n::: {.content-block}\n\nData Science PD newsletter v0.2.0\n\nUnder construction\n::: {.hero-buttons} Broken button\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2023_11/newsletter.html",
