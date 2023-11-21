@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/newsletter.html",
+    "listing": "/archive.html",
     "items": [
       "/posts/2023_11/newsletter.html"
     ]
   },
   {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2023_11/newsletter.html"
     ]
