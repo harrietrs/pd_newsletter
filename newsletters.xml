@@ -6,8 +6,8 @@
       version="2.0">
 <channel>
 <title>Data Science PD newsletter</title>
-<link>https://harrietrs.github.io/pd_newsletter/updates.html</link>
-<atom:link href="https://harrietrs.github.io/pd_newsletter/updates.xml" rel="self" type="application/rss+xml"/>
+<link>https://harrietrs.github.io/pd_newsletter/newsletters.html</link>
+<atom:link href="https://harrietrs.github.io/pd_newsletter/newsletters.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter promoting professional development for data scientists at NHS England.</description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 21 Nov 2023 00:00:00 GMT</lastBuildDate>

@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://harrietrs.github.io/pd_newsletter/posts/welcome/index.html</loc>
-    <lastmod>2023-11-17T19:59:33.699Z</lastmod>
+    <loc>https://harrietrs.github.io/pd_newsletter/newsletters.html</loc>
+    <lastmod>2023-11-21T09:11:49.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://harrietrs.github.io/pd_newsletter/posts/2023_11/newsletter.html</loc>
+    <lastmod>2023-11-21T09:11:49.352Z</lastmod>
   </url>
   <url>
     <loc>https://harrietrs.github.io/pd_newsletter/faq.html</loc>
-    <lastmod>2023-11-17T19:59:33.187Z</lastmod>
+    <lastmod>2023-11-21T09:11:48.844Z</lastmod>
   </url>
   <url>
     <loc>https://harrietrs.github.io/pd_newsletter/updates.html</loc>
-    <lastmod>2023-11-17T19:59:32.383Z</lastmod>
+    <lastmod>2023-11-21T09:11:48.044Z</lastmod>
   </url>
   <url>
     <loc>https://harrietrs.github.io/pd_newsletter/index.html</loc>
-    <lastmod>2023-11-17T19:59:32.923Z</lastmod>
+    <lastmod>2023-11-21T09:11:48.592Z</lastmod>
   </url>
   <url>
     <loc>https://harrietrs.github.io/pd_newsletter/about.html</loc>
-    <lastmod>2023-11-17T19:59:33.435Z</lastmod>
+    <lastmod>2023-11-21T09:11:49.084Z</lastmod>
+  </url>
+  <url>
+    <loc>https://harrietrs.github.io/pd_newsletter/archive.html</loc>
+    <lastmod>2023-11-21T09:11:49.628Z</lastmod>
   </url>
 </urlset>
